@@ -1,6 +1,6 @@
 # Feature Engineering
 
-<img src="https://github.com/baynazoglu/shoppers-purchasing-intention-ML/blob/main/customers.png" alt="Image" width="600" height="420">
+<img src="https://github.com/baynazoglu/Feature-Engineering/blob/main/Diabetes-Mellitus-Symptoms-Causes-Treatment.jpg" alt="Image" width="800" height="420">
 
 
 ## Project Summary
