@@ -1,5 +1,8 @@
 # Feature Engineering
 
+<img src="https://github.com/baynazoglu/shoppers-purchasing-intention-ML/blob/main/customers.png" alt="Image" width="600" height="420">
+
+
 ## Project Summary
 
 Business Problem:
